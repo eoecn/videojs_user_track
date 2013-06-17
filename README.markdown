@@ -25,3 +25,7 @@ module VideojsUserTrack_Rails
   end
 end
 ```
+
+### TODO
+1. 支持其他浏览器内视频播放框架
+2. 管理页面
